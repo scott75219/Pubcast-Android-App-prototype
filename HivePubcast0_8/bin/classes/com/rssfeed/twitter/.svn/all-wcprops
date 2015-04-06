@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter
+END
+TwitterUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter/TwitterUser.java
+END
+Authenticated.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter/Authenticated.java
+END
+Twitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter/Twitter.java
+END
+TweetLite.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter/TweetLite.java
+END
+Tweet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/src/com/rssfeed/twitter/Tweet.java
+END

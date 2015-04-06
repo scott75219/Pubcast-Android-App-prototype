@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:orientation="vertical" 
+    android:transcriptMode="alwaysScroll"
+    >
+
+    <LinearLayout 
+    android:layout_width="fill_parent"
+    android:background="@drawable/textlines"
+    android:layout_height="40dip"
+    android:orientation="horizontal" 
+    >
+
+    <ImageView
+        android:layout_width="80dip"
+        android:layout_height="fill_parent"
+        android:gravity="left"
+        android:src="@drawable/hivelogodec0213_transparent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dip"
+        android:layout_marginTop="2dip"
+            android:text="@string/title"
+        android:textColor="@color/title"
+        android:textSize="8pt"
+        android:textStyle="bold"/>
+    
+</LinearLayout>
+
+        <ScrollView android:id="@+id/ScrollView04"
+    android:layout_weight="3"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+        <LinearLayout
+            android:layout_width="wrap_content"
+   			android:layout_height="wrap_content"
+    		android:background="@color/background"
+    		android:orientation="vertical"
+    		android:paddingLeft="10dip"
+            android:paddingRight="10dip" >
+
+    
+
+    <TextView
+                android:id="@+id/Version"
+                android:layout_width="match_parent"
+        		android:layout_height="wrap_content"
+        		android:text="@string/versionbeta"
+        		android:layout_weight="0.1"
+        		android:textColor="@color/date"
+        		android:textSize="13.75dip"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/License_Header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:background="@color/background"
+        android:dividerHeight="1dip"
+        android:text="License"
+        android:textSize="16.0sp"
+        android:paddingBottom="5dip"
+        android:textColor="@color/title"
+          android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/License"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:text="License goes here"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="13.75sp"
+         android:textColor="@color/summary"/>
+    
+    <TextView
+        android:id="@+id/Privacy_Header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:background="@color/background"
+        android:dividerHeight="1dip"
+        android:text="Privacy"
+        android:textSize="16.0sp"
+        android:paddingBottom="5dip"
+        android:textColor="@color/title"
+          android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/Privacy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:text="Privacy goes here"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="13.75sp"
+         android:textColor="@color/summary"/>
+    
+    <TextView
+        android:id="@+id/Disclaimer_Header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:background="@color/background"
+        android:dividerHeight="1dip"
+        android:text="Disclaimer"
+        android:textSize="16.0sp"
+        android:paddingBottom="5dip"
+        android:textColor="@color/title"
+          android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/Disclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:text="Disclaimer goes here"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="13.75sp"
+         android:textColor="@color/summary"/>
+    
+     <TextView
+        android:id="@+id/Contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="16.0sp"
+         android:textColor="#23337c"
+         android:autoLink="web"
+         
+         />
+     
+      <TextView
+        android:id="@+id/copyright"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.40"
+        android:text="@string/copyright"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="13.75sp"
+         android:textColor="@color/summary"/>
+      
+       <TextView
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="16.0sp"
+         android:textColor="#23337c"
+         android:autoLink="web"
+         
+         />
+    
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

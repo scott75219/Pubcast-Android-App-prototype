@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rssfeed"
+    android:versionCode="1"
+    android:versionName="@string/version" >
+
+    <uses-sdk android:minSdkVersion="8" />
+ <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+ <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:icon="@drawable/hiveicon"
+        android:theme="@style/AppBaseTheme" 
+        android:label="@string/app_name"
+        
+        >
+        
+        <activity
+            android:name="com.rssfeed.activity.SplashScreen"
+            android:label="@string/app_name" android:screenOrientation="locked">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="summary"></activity>
+        <activity android:name="tabs"></activity>
+        <activity android:name="about"></activity>
+                <activity android:name="splash"></activity>
+        
+       <activity android:name="com.rssfeed.activity.Abstract"></activity>
+              <activity android:name="com.rssfeed.activity.HiveApps"></activity>
+       
+       <activity android:name="com.rssfeed.helper.About"></activity>
+       <activity android:name="com.rssfeed.activity.RssFeedReaderActivity"></activity>
+       <activity android:name="com.rssfeed.activity.TwitterActivity"></activity>
+       <activity android:name="com.rssfeed.activity.AndroidTabAndListView"
+                 android:screenOrientation="locked"></activity>
+       
+    </application>
+
+</manifest>

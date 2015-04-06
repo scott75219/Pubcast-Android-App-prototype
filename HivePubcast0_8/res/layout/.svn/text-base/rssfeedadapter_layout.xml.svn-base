@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="horizontal" android:layout_width="fill_parent"
+android:layout_height="wrap_content">
+<LinearLayout 
+android:orientation="vertical" 
+android:layout_width="fill_parent"
+android:layout_height="wrap_content">
+
+<TextView android:id="@+id/feed_text"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textColor="@color/title"
+android:paddingTop="5dip"
+android:paddingBottom="10dip"
+android:paddingLeft="8dip"
+android:text="sads"
+android:paddingRight="8dip"
+ android:textStyle="bold"
+ />
+
+<TextView android:id="@+id/feed_updatetime"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textColor="@color/date"
+android:textSize="11dip"
+android:paddingTop="3dip"
+android:paddingBottom="3dip"
+android:paddingLeft="8dip"
+android:paddingRight="8dip" />
+
+<TextView android:id="@+id/first_line"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textColor="@color/partabstract"
+android:textSize="11dip"
+android:paddingBottom="3dip"
+android:paddingLeft="8dip"
+android:paddingRight="8dip" />
+
+<TextView android:id="@+id/abs"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="12sp"
+android:text="Hive"
+android:visibility="gone" />
+
+<TextView android:id="@+id/authors"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="12sp"
+android:text="Hive"
+android:visibility="gone" />
+
+<TextView android:id="@+id/pmid"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="12sp"
+android:text="pmid"
+android:visibility="gone" />
+
+
+</LinearLayout>
+
+</LinearLayout>
+
+
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:orientation="vertical" 
+    android:transcriptMode="alwaysScroll"
+    >
+
+    <LinearLayout 
+    android:layout_width="fill_parent"
+    android:background="@drawable/textlines"
+    android:layout_height="40dip"
+    android:orientation="horizontal" 
+    >
+
+    <ImageView
+        android:layout_width="80dip"
+        android:layout_height="fill_parent"
+        android:gravity="left"
+        android:src="@drawable/hivelogodec0213_transparent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dip"
+        android:layout_marginTop="2dip"
+            android:text="@string/title"
+        android:textColor="@color/title"
+        android:textSize="11pt"
+        android:textStyle="bold"/>
+    
+</LinearLayout>
+
+        <ScrollView android:id="@+id/ScrollView04"
+    android:layout_weight="3"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@color/background"
+            android:orientation="vertical"
+            android:paddingLeft="50dip"
+            android:paddingRight="50dip"
+            android:paddingTop="25pt" >
+
+ <Button
+     
+     android:gravity="center"
+     android:id="@+id/pubcast" 
+     android:background="@drawable/buttonselector" 
+     style="@style/ButtonText"
+     android:autoLink="web"
+     android:text="Download HIVE Pubcast">
+     
+     >     
+ </Button>
+
+  <Button
+      android:id="@+id/genecast"
+      style="@style/ButtonText"
+      android:layout_gravity="center"
+      android:layout_marginTop="20dip"
+      android:autoLink="web"
+      android:background="@drawable/buttonselector"
+      android:gravity="center"
+      android:text="Download HIVE Genecast" >
+     
+ </Button>      
+    
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

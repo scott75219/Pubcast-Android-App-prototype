@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/menu
+END
+lmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/menu/lmenu.xml
+END
+start_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/menu/start_menu.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/menu/main.xml
+END
+list_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/res/menu/list_menu.xml
+END
+menu_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/menu/menu_options.xml
+END

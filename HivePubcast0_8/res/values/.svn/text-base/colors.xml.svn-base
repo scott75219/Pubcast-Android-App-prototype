@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="background">#FFFFF0</color>
+   <color name="partabstract">#5D5C5C</color>
+     <color name="summary">#000000</color>
+     <color name="title">#000000</color>
+     <color name="author">#000000</color>
+     <color name="date">#000000</color>
+     
+ 
+</resources>

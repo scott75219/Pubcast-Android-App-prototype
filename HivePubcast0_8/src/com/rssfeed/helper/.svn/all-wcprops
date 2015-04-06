@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/src/com/rssfeed/helper
+END
+MySQLiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/src/com/rssfeed/helper/MySQLiteHelper.java
+END
+ReverseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/src/com/rssfeed/helper/ReverseOrder.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/src/com/rssfeed/helper/About.java
+END
+CheckDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/src/com/rssfeed/helper/CheckDate.java
+END
+RssFeedStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/src/com/rssfeed/helper/RssFeedStructure.java
+END
+XmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/src/com/rssfeed/helper/XmlHandler.java
+END

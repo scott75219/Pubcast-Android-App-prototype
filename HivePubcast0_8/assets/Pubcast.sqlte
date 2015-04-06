@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS "Tabs";
+CREATE TABLE "Tabs" ("Id"INTEGER AUTO INCREMENT,"PMId" VARCHAR "Date" VARCHAR, "Journal" VARCHAR, "Title" VARCHAR  , "Authors" BLOB, "Abstract" BLOB, "Affiliation" BLOB, "Type" VARCHAR);

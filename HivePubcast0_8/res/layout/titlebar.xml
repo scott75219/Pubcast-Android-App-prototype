@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:background="@drawable/textlines"
+    android:layout_height="40dip"
+    android:orientation="horizontal" 
+    >
+
+    <ImageView
+        android:layout_width="80dip"
+        android:layout_height="fill_parent"
+        android:gravity="left"
+        android:src="@drawable/hivelogodec0213_transparent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dip"
+        android:layout_marginTop="2dip"
+            android:text="@string/title"
+        android:textColor="@color/title"
+        android:textSize="14pt"
+        android:textStyle="bold"
+         />
+    
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">HIVE Pubcast (beta) </string>
+    <string name="title">HIVE Pubcast (beta) </string>
+    <string name="tab1">Genomics</string>
+    <string name="tab2">Protonomics</string>
+        <string name="tab3">Genes</string>
+    <string name="loading">loading</string>
+    <string name="version">Version 0.8.4.2</string>
+    <string name="versionbeta">Version 0.8.4.2 - beta - This app is in beta testing.</string>
+    
+        <string name="contact"><b><u>Send feedback to HIVE team \n</u></b></string>
+            <string name="copyright">HIVE Pubcast &#169;2013-</string>
+        
+    
+
+</resources>

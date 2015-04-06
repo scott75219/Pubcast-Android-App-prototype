@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/res/layout/main.xml
+END
+tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/tabs.xml
+END
+rssfeedadapter_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/302/trunk/app/Pubcast/res/layout/rssfeedadapter_layout.xml
+END
+rssfeedreaderactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/rssfeedreaderactivity.xml
+END
+intro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/intro.xml
+END
+summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/res/layout/summary.xml
+END
+twitteradapter_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/layout/twitteradapter_layout.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/layout/activity_main.xml
+END
+shape.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/shape.xml
+END
+null_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/layout/null_row.xml
+END
+apps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/339/trunk/app/Pubcast/res/layout/apps.xml
+END
+titlebar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/titlebar.xml
+END
+fragment_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/402/trunk/app/Pubcast/res/layout/fragment_main.xml
+END
+about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/338/trunk/app/Pubcast/res/layout/about.xml
+END
+testbutton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/278/trunk/app/Pubcast/res/layout/testbutton.xml
+END
